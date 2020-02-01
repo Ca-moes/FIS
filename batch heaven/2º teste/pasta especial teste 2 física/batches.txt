@@ -1,0 +1,19 @@
+sistemadinamico - sistema dinâmico...tem ponto de equilibrio...pedem a vizinhança desse ponto
+jacob2 - encontrar os eigenvalues
+pontosEquilForca - dao expressao da força e pedem pontos equilibrio, etc
+diffEq - quando dão equaçao diferencial (xpp = ...)
+jacob - pedem matriz jacobiana do sistema dinâmico
+componente - dão a velocidade e a força resultante e pedem a componente tangencial
+sisdin - introduzir sistema dinamico, da pontos de equil, jacob e eigenvalues ou introduzir eigenvalues e classifica
+pontos e cenas - analisa sistema dinamico (e 2 especies tb)
+aceleracao(ec,ep) - dão a cinética e potencial, pedem a aceleração
+matriz - dão as equações de evolução de um sistema linear, pedem a matriz do sistema (xMaxima)
+vectores - dão a matriz, pedem o vetor próprio
+kelastica - Quando um cilindro com massa 120g é pendurado de uma mola vertical, fica em equilíbrio a uma altura...
+elastica - dão a const elástica, lados...pedem a energia elástica
+evolVar - dão a matriz de um sistema e pedem qual o período e amplitude
+conservative - sistema conservativo
+modmomento - dão uma força [x,y] e posição [x,y]...pedem módulo do momento dessa força, em relação a origem
+mominer - momento de inércia
+mominftan - força tangencial aplicada na periferia do disco
+

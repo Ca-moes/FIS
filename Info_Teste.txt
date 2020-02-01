@@ -1,0 +1,24 @@
+Boa tarde,
+
+O 1º teste de Física 1 será na quinta-feira 11 de abril, entre as 14h e as 15h30, nas salas B221 e B227 
+(são salas de exame, sem computadores). Só pode fazer o teste quem, na data do teste, 
+tiver 25% ou menos na percentagem de faltas às aulas TP, a menos que já tenha frequentado as aulas num ano anterior.
+
+O tema do teste são os 5 primeiros capítulos e estará composto por 20 perguntas de escolha múltipla, 
+semelhantes às perguntas no fim dos capítulos; cada resposta correta vale 1 ponto e cada resposta errada desconta 0.25 pontos. 
+No teste é permitido usar computador/ tablet/ telemóvel ou calculadora, mas apenas para fazer contas. 
+O uso desses dispositivos para consultar apontamentos ou exames resolvidos ou para comunicar com alguém implica anulação 
+imediata do teste e um processo disciplinar. No entanto, podem consultar um formulário de uma página A4 (frente e verso). 
+Devem trazer o vosso próprio formulário e computador/calculadora, porque nas salas do teste não há computadores e 
+não serão distribuídos formulários. Cada um pode fazer o seu próprio formulário como achar, enquanto não exceda uma folha A4.
+
+Na secção "Exames com resolução" do livro (http://def.fe.up.pt/dinamica/exames.html), 
+podem ver um modelo de teste dum ano anterior. Os vários exames resolvidos nessa mesma secção servem também como preparação 
+do teste, porque as perguntas de escolha múltipla de cada exame são obtidas da mesma base de dados dos testes 
+(claro que nos exames há perguntas de todos os capítulos).
+
+Na secção "Avaliação", no fim da página Web (após a aula TP 13), há um link Pauta onde podem consultar o número de faltas 
+até o momento e, no caso de alunos repetentes, a nota obtida em algum ano anterior. Se a nota dos anos anteriores for numérica 
+ou RFC (reprovou por não obter a nota mínima nos testes), pode fazer o teste, independentemente do número de faltas neste ano. 
+Se essa nota for RFF (reprovou por não ter frequentado as aulas), só poderá fazer o teste se tiver 25% ou menos na percentagem 
+de faltas.

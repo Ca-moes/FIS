@@ -1,0 +1,8 @@
+sistemadinamico():=
+(eq1:read("Equacao x"),
+eq2:read("Equacao y"),
+vx:read("Valor de x"),
+vy:read("Valor de y"),
+f:jacobian([eq1,eq2],[x,y]),
+h:subst([x=vx,y=vy],f),
+h.[x,y]);

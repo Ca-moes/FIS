@@ -1,0 +1,5 @@
+vectores():=(x:read("Digite a primeira linha da matriz [x,y]:"),
+    y:read("Digite a segunda linha da matriz [x,y]:"),
+    m: matrix(x,y),
+    a:eigenvectors(m),
+    e:float(a));

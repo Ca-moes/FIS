@@ -1,0 +1,7 @@
+componente():=( v:read("vetor velocidade [ , ]: "),
+                 fr:read("vetor forca resultante [ , ]:"),
+                  a:acos(v.fr/sqrt((v.v)*(fr.fr))),
+                  e:float(a*180/%pi),
+                   ctfr:(float(sqrt(fr.fr)*cos(e*%pi/180))));
+
+

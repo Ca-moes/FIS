@@ -1,0 +1,7 @@
+jacob():=(
+             xfunc:read("x"),
+             yfunc:read("y"),
+             f:[xfunc,yfunc],
+             equilibrio:solve(f),
+             v:[x,y],
+             j: jacobian(f,v));
