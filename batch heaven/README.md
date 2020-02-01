@@ -1,4 +1,4 @@
-##Como usar os batch files?
+## Como usar os batch files?
 Simples, basta ir ao wxmaxima (se usarem esta versão) e fazer CTRL+B ou CMD+B para os macs.
 Para quem não usa wxmaxima pode fazer batch("pathparaobatch");
 
@@ -11,7 +11,7 @@ Depois deverá ser apenas seguir as instruções que o batch dá.
 (Presumivelmente) Todos os batches que aqui estão têm comentários dentro do próprio ficheiro .mac (abrir com notepad ou equivalente) que explicam como o usar e também em grande parte destes está um enunciado exemplo com o resultado para testar o seu funcionamento.
 
 
-##FAQ:
+## FAQ:
 Q: Não consigo fazer gráficos porque o maxima diz que não sabe onde guardar os ficheiros ou algo assim!!111
 R: Verifica o maxima_tempdir e o maxima_userdir para ver se estão em paths válidos. Estas variáveis podem ser mudadas como as outras variáveis do maxima, fazendo maxima_tempdir: "/home/userexemplo/pastamaximaexemplo".
 
